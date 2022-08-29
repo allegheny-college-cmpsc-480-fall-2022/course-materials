@@ -71,20 +71,20 @@ Each of these circumstances affects grades differently.
 
 #### Incomplete assignments
 
-For every two (2) incomplete assignments, a student's course grade will be lowered by half a letter grade (e.g. _two_ incomplete assignments would result in a mark of `C-`, et al.).
+For every two (2) incomplete assignments, a student's course grade will be lowered by half a letter grade (e.g. _two_ (2) incomplete assignments would result in a mark of `B-`, et al.).
 
 #### Ignored assignments
 
-If a student misses _any_ assignment, their course grade is lowered by a half letter grade for each (e.g. _one_ assignment missed would result in a `C-`, et al.).
+If a student misses _any_ assignment, their course grade is lowered by a half letter grade for each (e.g. _one_ (1) assignment missed would result in a `B-`, et al.).
 
 #### Academic dishonesty
 
 Students engaging in academically dishonest behavior will be assessed on a case-by-case basis, as circumstances and factors of a case vary widely. However, in situations where academic dishonesty is established, the variety of penalties might include (but are not limited to):
 
-* disqualification from the `A` and/or `B` "tiers"
+* disqualification from the `A` and/or "Basic Grade" tiers
 * an automatic assessment of an "Ignored" assignment
 
-In severe cases, academic dishonesty may result in the mark of an `F` for the course, though these cases are rare (i.e. _almost_ non-existent). For questions of what qualitfies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
+In severe cases, academic dishonesty may result in the mark of an `F` for the course, though these cases are rare (i.e. _almost_ non-existent). For questions of what qualifies under the provision of "academic dishonesty" see the remainder of this document and the _Compass_.
 
 ### Assignment "bugs" and impact on grading
 
