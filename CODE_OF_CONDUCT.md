@@ -33,17 +33,37 @@ For all of you, the terrain of this journey will be tough in different ways. It'
 
 ## Contract stipulations
 
-### The "Basic Grade"
+### Grading
+
+Each assignment will feature a "tier"-based requirements structure based on the different strata described below. These requirements contemplate the additional work that transports an assignment from "good" to "great," and often involves a higher workload of more than just repetition or make-work.
+
+#### The "Basic Grade"
 
 (To qualify for this tier, all basic assignment objectives must be completely met.)
 
 * All students who meet the covenants of this contract will earn an individual letter grade of `B` in this course.
 
+#### Tiers
+
+As written above, each assignment will specify two different acceptable levels of work:
+
+* `A` tier requirements: work which often involves extended reflection or application of concepts/products
+* `Basic` tier requirements: work which achieves a product, but does not elaborate on or apply said product
+
+It is possible to occupy `+`/`-` regions of the grading spectrum. The following table summarizes how these
+incidentals work:
+
+|Mark            |Criteria                                                                                 |
+|:---------------|:----------------------------------------------------------------------------------------|
+|`A-`            |A student has completed `A` tier work on all assignments except two (2) for the semester |
+|`B+`            |A student completes two (2) assignments to `A` tier quality                              |
+|`B-`            |See [Incomplete assignments](#incomplete-assignments) below                              |
+
 ### Grades lower than the "Basic Grade"
 
 There are three (3) instances that penalize evaluation:
 
-1. Incomplete assignments (i.e. incomplete)
+1. Incomplete assignments (i.e. basic expectations are not fulfilled)
 2. Ignored assignments (i.e. not completed at all)
 3. Plagiarism or other inappropriate/dishonest academic behavior
 
