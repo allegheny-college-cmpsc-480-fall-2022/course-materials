@@ -91,3 +91,15 @@ In severe cases, academic dishonesty may result in the mark of an `F` for the co
 * In the event that there are "bugs" with grader criteria, instructor will assess completion status with known issues in mind
   * The instructor will make every effort to remedy the failing check before the assignment due date
   * However, if during assignment evaluation, a check fails for every student due to a technical issue, the check is considered an invalid grading criteria  
+
+### The "Repair Rule" (i.e. Assignment Revision)
+
+This rule only applies to assignments classified as "Incomplete" assignments and _not "Ignored" assignments.
+
+* _Once_ during the semester, a student may open an Issue on a repository to which they'd like to submit missing work to regain credit for an assignment
+  * This issue should indicate a student's interest in reclaiming credit for this assignment using the "Repair Rule"
+* This "Repair" issue must fill out the resulting form completely to request the ability to submit revisions
+* Students submitting a revision must remedy deficiencies listed in the most recent "Checkpoint" issue
+  * Credit will be awarded as "complete" or "incomplete" according to the guidelines outlined in the [Grading](#Grading) section above
+* A student submitting a revision is allowed five (5) days to submit updated work
+  * There is no limit on the number of `commit`s allowed during this time (i.e. students may `commit` as many times as they like)
