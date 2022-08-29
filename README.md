@@ -1,11 +1,11 @@
-# Course Materials: Software Innovation 1, Allegheny College, Fall 2020 (CMPSC 480-00)
+# Course Materials: Software Innovation 1, Allegheny College, Fall 2022 (CMPSC 480)
 
 This repository hosts materials which describe the structure and operation this section of Software Innovation 1. Check this space early and often for updates to the syllabus, schedule, and other course governance.
 
 ## Resources
 
 * [Syllabus](#syllabus)
-* [Course schedule]()
+* [Course schedule](https://chompe.rs/fall-2022-480-schedule)
 
 ## Syllabus
 
